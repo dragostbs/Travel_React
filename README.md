@@ -1,4 +1,4 @@
-# One Page Application 🧳
+# Travel Page Application 🧳
 
 Travel Application by displying cards destinations
 
